@@ -19,15 +19,12 @@ twice.py : cout.pyの数字を倍にして出力する。
 * USB Micro-B
 
 # 使用法
-ubuntuの端末を4つ起動する
+ubuntuの端末を4つ起動し以下を実行
 ```bash
 端末1$ rosecore
 端末2$ chmod +x count.py
 端末3$ rosrun myplg count.py
-端末3$ rostopic echo /count_up
-
-
-
+端末4$ rostopic echo /count_up
 ```
 
 # 注意
