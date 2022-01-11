@@ -7,7 +7,7 @@ Pythonを使用しています。
 https://www.youtube.com/watch?v=ajRvr5sO400
 
 # 特徴
-cout.py : 1秒間に10ずつ大きくなる数字を出力する
+cout.py : 1秒間に10ずつ大きくなる数字を出力する。  
 twice.py : cout.pyの数字を倍にして出力する。
  
 # 必要品
