@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+#SPDX-License-Indentifier: GPL-3.0
+#Copyright (C) 2021 Ryuichi Ueda. All rights reserved.
 
 import rospy
 from std_msgs.msg import Int32
