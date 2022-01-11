@@ -35,8 +35,8 @@ ubuntuの端末を4つ起動し以下を実行
 端末3$ rosrun myplg twice.py
 ```
 
-# 著者
-Daigo Takano + Ryuichi Ueda
+# 著者 
+Ryuichi Ueda
  
 # ライセンス
 GNU General Public License v3.0(GPL-3.0)
