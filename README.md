@@ -34,19 +34,6 @@ ubuntuの端末を4つ起動し以下を実行
 端末2$ chmod +x twice.py
 端末3$ rosrun myplg twice.py
 ```
-# 注意
-```bash
-sudo rmmod myled
-```
-を実行した際に
-```bash
-insmod: ERROR - could not insert module myled.ko 
-```
-というエラーが起きる場合があることが確認されています。  その際は、
-```bash
-make clean
-```
-を実行後に上記プログラムのmakeからやり直してください
 
 # 著者
 Daigo Takano + Ryuichi Ueda
