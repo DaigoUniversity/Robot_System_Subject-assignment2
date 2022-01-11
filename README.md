@@ -1,11 +1,11 @@
 # ロボットシステム学 課題2
  
 LEDを光らせるデバイスドライバのプログラムです。
-C言語を使用しています。
+Physonを使用しています。
  
 # デモ
 ### デモ動画
-https://www.youtube.com/watch?v=6jj6drCYsUE
+https://www.youtube.com/watch?v=ajRvr5sO400
 
 ### 回路例
 
