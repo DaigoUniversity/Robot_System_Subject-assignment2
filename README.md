@@ -1,22 +1,14 @@
 # ロボットシステム学 課題2
  
-LEDを光らせるデバイスドライバのプログラムです。
-Physonを使用しています。
- 
-# デモ
-### デモ動画
+ROSを使用してプログラムです。
+Pythonを使用しています。
+
+# デモ動画
 https://www.youtube.com/watch?v=ajRvr5sO400
-
-### 回路例
-
-<img src="https://user-images.githubusercontent.com/93714969/146319800-2da83175-fd14-4953-8905-f17996abc907.jpg" width="640px">
-
-### 回路図
-<img src="https://user-images.githubusercontent.com/93714969/146628601-f4c1fe9a-c298-48c2-b96d-b8fa15b0b801.jpg" width="640px">
 
 # 特徴
  
-LEDを点灯または消灯せることができます。
+twice.py : 
  
 # 必要品
  
