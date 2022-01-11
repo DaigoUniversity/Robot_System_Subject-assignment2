@@ -19,20 +19,15 @@ twice.py : cout.pyの数字を倍にして出力する。
 * USB Micro-B
 
 # 使用法
+ubuntuの端末を4つ起動する
 ```bash
-git clone git@github.com:DaigoUniversity/Robot_System_Subject-assignment1.git
-cd Robot_System_Subject-assignment1
+端末1$ rosecore
+端末2$ chmod +x count.py
+端末3$ rosrun myplg count.py
+端末3$ rostopic echo /count_up
 
-//-----以下からプログラム実行-----//
-make
-sudo insmod myled.ko
-sudo chmod 666 /dev/myled0
 
-echo 1 > /dev/myled0 //LED点灯
-echo 0 > /dev/myled0 //LED消灯
 
-/-----後処理-----//
-sudo rmmod myled
 ```
 
 # 注意
