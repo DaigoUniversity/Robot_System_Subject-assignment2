@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=ajRvr5sO400
 
 # 特徴
  
-twice.py : 
+twice.py : cout.pyの数字を倍にして出力する。
  
 # 必要品
  
