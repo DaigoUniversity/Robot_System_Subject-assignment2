@@ -20,7 +20,7 @@ twice.py : cout.pyの数字を倍にして出力する。
 
 # 使用法
 ## 準備
-以下のサイトを参考にROSをインストールする　　
+以下のサイトを参考にROSをインストールする  
 https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_server
 
 ## その①（cout.py）
