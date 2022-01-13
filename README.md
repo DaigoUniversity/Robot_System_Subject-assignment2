@@ -43,4 +43,4 @@ ubuntuの端末を4つ起動し以下を実行
 Ryuichi Ueda
  
 # ライセンス
-GNU General Public License v3.0(GPL-3.0)
+BSD 2-Clause License
