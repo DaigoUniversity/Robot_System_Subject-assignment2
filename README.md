@@ -1,7 +1,6 @@
 # ロボットシステム学 課題2
  
 ROSパッケージを作成して作動させるリポジトリです。
-Pythonを使用しています。
 
 # デモ動画
 https://www.youtube.com/watch?v=ajRvr5sO400
